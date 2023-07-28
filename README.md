@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/AZ2ELQi.png" style="width=100px;">
-I am a self taught Python, LUA, and aspiring web developer. I like developing discord bots, and FiveM scripts! Thanks, 👋!
+# <img src="https://i.imgur.com/AZ2ELQi.png" style="width=100px;">
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ha-rt&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+👋 Hello! I am Oliver, or hart! I am a self taught Python, and LUA developer. I've worked hard to try and learn new skills, and right now I'm working on learning web development, and C#!
+
+I mainly communicate through discord, so if you have any inquires you can contact me at har.t! Welp, goodbye!
